@@ -1,4 +1,4 @@
-# Entrega Construindo um E-commerce - parte 1
+# Entrega Construindo um E-commerce - Simples
 
 ## Introdução
 
